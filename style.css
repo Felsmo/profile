@@ -1,0 +1,66 @@
+/* Here goes your CSS */
+
+body {
+  font-family: 'Audiowide', cursive;
+  color: #1C2833;
+  text-align: center;
+  background-image: url(pictures/Norway.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-margin: 0 auto;
+}
+
+div {
+  border-top: 1px solid rgb(#1C2833);
+}
+
+.container{
+  margin: 0;
+  width: 500px;
+  margin: 0 auto;
+
+
+.float_right{
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card_name_and_pic img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.card_about_me{
+  color: rgb(200, 200, 200);
+}
+
+.card_goodbye{
+  color: rgb(200, 200, 200);
+}
+
+.list{
+color: #EE293D;
+text-align: left;
+width: 100px;
+margin: 0 auto;
+}
+
+.list a {
+  color: #1A5DAD;
+}
+
+a:hover {
+    color: red;
+    transition: 1s;
+}
+
+.Social {
+  color: #EE293D;
+  ext-align: left;
+  width: 100px;
+  margin: 0 auto;
+ }
+
